@@ -205,7 +205,7 @@ def solve(state):
 
 | Item | Detail |
 |------|--------|
-| Mata Kuliah | Struktur Data / Algoritma |
+| Mata Kuliah | Struktur Data |
 | Topik | Rekursi & Backtracking |
 | Bahasa | Python 3 |
 | Algoritma | N-Queens, Knight's Tour, Knapsack |
