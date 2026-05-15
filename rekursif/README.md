@@ -7,14 +7,14 @@ Repositori ini berisi implementasi tiga algoritma rekursif klasik dalam ilmu kom
 ## 📁 Struktur Direktori
 
 ```
+README.md
 rekursif/
 ├── n-queens/
 │   └── n_queens.py          # Soal 1: N-Queens Problem
 ├── knights-tour/
 │   └── knights_tour.py      # Soal 2: Knight's Tour
-├── knapsack/
-│   └── knapsack.py          # Soal 3: Knapsack Problem
-└── README.md
+└── knapsack/
+    └── knapsack.py          # Soal 3: Knapsack Problem
 ```
 
 ---
